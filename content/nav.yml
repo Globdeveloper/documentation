@@ -1594,7 +1594,7 @@
             - title: Changelog
               url: /cli/v10/using-npm/changelog
               description: Changelog notes for each version
-    - title: Version 11.3.0
+    - title: Version 11.4.0
       shortName: v11
       url: /cli/v11
       default: true
@@ -1742,8 +1742,8 @@
             - title: npm root
               url: /cli/v11/commands/npm-root
               description: Display npm root
-            - title: npm run-script
-              url: /cli/v11/commands/npm-run-script
+            - title: npm run
+              url: /cli/v11/commands/npm-run
               description: Run arbitrary package scripts
             - title: npm sbom
               url: /cli/v11/commands/npm-sbom
